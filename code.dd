@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Amazon page</title>
+</head>
+<body>
+    <header>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+    <link rel="stylesheet" href="style.css">
+    <div class="navbar">
+        <div class="nav-logo border">
+            <div class="logo"></div>
+        </div>
+                <div class="nav-address border">
+                    <p class="address-one">Delivery Services Limited To</p>
+                     <div class="add-icon">
+                        <i class="fa-solid fa-location-dot"></i>
+                        <p class="address-two">India /China / United States / United Kingdom / Russia </p>
+                </div>
+
+            </div>
+        
+        <div class="nav-search "></div>
+        <select class="search-select">
+            <option>All</option>
+        </select>
+        <input placeholder="Search Amazon" class="search-input">
+        <button>
+        Search
+        </button>
+             <ul class="nav-sign border" >
+                <li> <a href="#Account"><i class="fa-solid fa-user"></i>Account</a></li>
+                <li><a href="#home">Home</a> </li>
+                <li><a href="#Contacts">Contact Us</a></li>
+                <li> <a href="#Orders/retunrs">Orders/Returns</a></li>
+                <li> <a href="#help">Help</a></li>
+                <li> <a href="#about">About</a></li>
+            </ul>
+        </div>
+    </div>
+</div>
+<footer>
+    <div class="foot-panel">
+        Back To Top
+    </div>
+    <div class="foot-panel2">
+        <ul>
+            <p>	CONNECT WITH US </p>
+            <a>Facebook</a>
+        
+            <a>Instagram</a>
+            
+            <a>Twitter</a>
+            
+            <a>Snapchat</a>
+            
+            <a>Meta</a>
+            
+            <a>Reverb.in</a>
+
+            </ul>
+
+            <ul>
+                <p></p>Make Money with Us
+                Sell on Amazon
+                Sell under Amazon Accelerator
+                Protect and Build Your Brand
+                Amazon Global Selling
+                Become an Affiliate
+                Fulfilment by Amazon
+                Advertise Your Products
+                Amazon Pay on Merchants  Lorem ipsum dolor sit amet consectetur adipisicing elit. Necessitatibus distinctio voluptatibus iure numquam architecto molestiae voluptate porro quae, eveniet, sapiente provident facilis expedita nulla ad quos dolores sunt optio inventore.
+                Autem repellendus quidem recusandae aliquam cumque temporibus dignissimos eos, eum earum, atque delectus amet totam nam dolorem. Obcaecati rem, rerum qui fugiat tenetur quo voluptatibus, enim aspernatur nesciunt reiciendis quam.
+                Nesciunt ipsum tempore soluta molestiae ipsam iure quod, possimus tempora placeat deserunt assumenda unde suscipit in voluptatibus cum laudantium beatae vitae expedita temporibus eum odio numquam minus qui! Repellat, voluptatem.
+                At atque dolore voluptates quidem officiis assumenda enim architecto doloremque. Incidunt aperiam commodi eius! Tempora voluptatibus ea quidem. Maxime, necessitatibus! A, cum ipsam tempora hic quia ex omnis quibusdam. Ipsam!
+                Quibusdam, debitis. Nam animi maiores saepe quaerat eius cupiditate pariatur consequatur in, repellat ad aut rerum quam consectetur molestias labore earum veniam magni eveniet commodi optio? Doloribus eaque vitae ut.
+                Debitis, doloribus facere odit culpa quibusdam dolorum qui porro tempore perferendis unde voluptatem atque laudantium explicabo et! Quibusdam aliquam laborum corrupti pariatur architecto, illum delectus velit, nulla accusamus doloribus recusandae?
+                Assumenda a quibusdam totam ad suscipit, voluptate, labore repellendus amet recusandae nesciunt quae nemo quas inventore. Aspernatur molestias perferendis deleniti temporibus commodi quis expedita itaque laudantium debitis, in, totam quod.
+                Corrupti vitae officiis quibusdam odio commodi voluptas iusto doloremque aperiam deserunt illo! Praesentium laborum repellendus deleniti, atque ex, minus dolores ipsam expedita maxime corporis, culpa voluptates facilis impedit ea rem.
+                </ul>
+
+                <ul>
+                    <a>Let Us Help You</a>
+                   <p>COVID-19 and Amazon</p> 
+                    <p>Your Account</p>
+                    <p>Returns Centre</p>
+                    
+                     
+        
+                    </ul>
+                    
+
+                    <ul>
+                        <p>	PRIVATE LIMITED </p>
+                        <a>Isha</a>
+                    
+                        <a>Inc.in</a>
+                        
+                        <a>Rus.in</a>
+                        
+                        <a>Uk.in</a>
+                        
+                        <a>Mt.in</a>
+                        
+                        <a>Rv.in</a>
+            
+                        </ul>
+                       
+
+
+    </div>
+       
+
+
+</div>
+<div class="foot-panel3">
+    <div class="logo1"></div>
+    Conditions of Use & Sale
+       Privacy Notice
+       Interest-Based Ads
+       © 1996-2024, Amazon.com, Inc. or its affiliates.....
+
+</div>
+
+
+
+ 
+        
+        
+         
+        
+    </header>
+
+    
+    
+    
+</body>
+</html>
